@@ -1,1 +1,10 @@
+{
+  "versionCode": 99,
+  "updateEnabled": true, 
+  "downloadUrl": "https://t.me/loader_announcement",
+  "updateTitle": "😎ATTENTION: Naya Update Mila!",
+  "updateMessage": "Alert Next Update Official Announcement.",
+  "buttonText": "DOWNLOAD NOW",
+  "developerUrl": "https://t.me/loader_announcement"
+}
 
